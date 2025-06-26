@@ -1,9 +1,3 @@
-Thanks! Since I can’t access the GitHub repo directly right now due to a temporary issue, I’ll write a simplified and specific `README.md` based on the public info and common patterns in book recommendation repos.
-
-You can paste this directly into your repo and edit minor parts (like file names or descriptions) if needed:
-
----
-
 # 📚 Book Recommendation System
 
 This is a simple book recommendation system built using Python. It includes:
